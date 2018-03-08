@@ -1,3 +1,7 @@
 Git is a version control system.
 Git is a free software.
-Sentence added by master branch.
+<<<<<<< HEAD
+Sentence added.
+=======
+Sentence added.
+>>>>>>> branch1
